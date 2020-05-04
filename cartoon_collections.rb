@@ -15,3 +15,4 @@ def list_dwarves(array)
   array.each_index do |element|
     print "#{index}. #{element}"
 end
+end
